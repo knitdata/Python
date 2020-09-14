@@ -1,2 +1,2 @@
-# Python-
+# Python
 Jupyter Notebook, Colab
